@@ -29,10 +29,10 @@
     "object-assign": "^4.1.1",
     "prop-types": "^15.6.0",
     "react-dom": "^15.6.2",
-    "static-module": "^1.5.0",
+    "static-module": "^3.0.0",
     "svg-to-react": "^0.1.0",
-    "svgo": "^0.7.2",
-    "through2": "^2.0.3",
+    "svgo": "^1.1.1",
+    "through2": "^3.0.0",
     "tosource": "^1.0.0"
   },
   "peerDependencies": {
@@ -54,6 +54,6 @@
     "proxyquire": "^1.8.0",
     "react": "^15.6.2",
     "react-addons-test-utils": "^15.6.2",
-    "tap": "^10.7.2"
+    "tap": "^12.1.0"
   }
 }
