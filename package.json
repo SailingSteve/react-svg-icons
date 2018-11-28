@@ -27,7 +27,7 @@
   "license": "MIT",
   "dependencies": {
     "object-assign": "^4.1.1",
-    "prop-types": "^15.6.0",
+    "prop-types": "^15.6.2",
     "react-dom": "^15.6.2",
     "static-module": "^3.0.0",
     "svg-to-react": "git+https://github.com/SailingSteve/svg-to-react.git",
@@ -50,7 +50,7 @@
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-react": "^6.24.1",
     "babelify": "^7.3.0",
-    "browserify": "^14.4.0",
+    "browserify": "^14.5.0",
     "proxyquire": "^1.8.0",
     "react": "^15.6.2",
     "react-addons-test-utils": "^15.6.2",
