@@ -30,7 +30,7 @@
     "prop-types": "^15.6.2",
     "react-dom": "^15.6.2",
     "static-module": "^3.0.0",
-    "svg-to-react": "git+https://github.com/SailingSteve/svg-to-react.git",
+    "svg-to-react": "git+https://git@github.com/SailingSteve/svg-to-react/#sailingSteveFixDependenciesNov28",
     "svgo": "^1.1.1",
     "through2": "^3.0.0",
     "tosource": "^1.0.0"
